@@ -12,7 +12,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CalesJ/)](https://github.com/calesj)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cales-junes-9548381aa/)](https://www.linkedin.com/in/cales-junes-9548381aa/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4717a?style=flat-square&labelColor=e4717a&logo=instagram&logoColor=white&link=https://https://www.instagram.com/budcxles/)](https://www.instagram.com/budcxles/)
 
 ## GitHub Stats
 
