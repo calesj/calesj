@@ -2,7 +2,6 @@
 
 <i>Looking to learn</i>
 
-- 🔭 I’m currently working on Covenant
 - 🌱 I’m currently learning languages for Web Development
 - 😄 I'm open to new knowledge !
 - 💬 Ask me about anything
