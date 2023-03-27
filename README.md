@@ -8,7 +8,7 @@
 - 📫 How to reach me **cales.j.rodrigues@gmail.com**
 
 
-- 📄 Know about my experiences [CALES_JUNES RODRIGUES_Resume_26-03-2023-12-15-09.pdf](https://github.com/calesj/calesj/files/11079758/CALES_JUNES.RODRIGUES_Resume_26-03-2023-12-15-09.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/calesj/calesj/files/11079758/CALES_JUNES.RODRIGUES_Resume_26-03-2023-12-15-09.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
