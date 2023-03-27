@@ -3,13 +3,12 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/calesj](https://github.com/calesj)
-
 - 💬 Ask me about **PHP, Laravel/Lumen, Vue.js**
 
 - 📫 How to reach me **cales.j.rodrigues@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/spwee7rgaf](https://flowcv.com/resume/spwee7rgaf)
+
+- 📄 Know about my experiences [CALES_JUNES RODRIGUES_Resume_26-03-2023-12-15-09.pdf](https://github.com/calesj/calesj/files/11079758/CALES_JUNES.RODRIGUES_Resume_26-03-2023-12-15-09.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
