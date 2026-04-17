@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e293b,70:334155,100:475569&height=220&section=header&text=Cales%20Junes%20Rodrigues&fontSize=36&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20PHP%20%2B%20Laravel%20%7C%20SaaS%20%7C%20REST%20APIs%20%7C%20Multi-tenant&descAlignY=58" alt="Cales Junes Rodrigues banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e293b,70:334155,100:475569&height=220&section=header&text=Cales%20Junes%20Rodrigues&fontSize=36&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PHP%20%2B%20Laravel%20%7C%20SaaS%20%7C%20REST%20APIs%20%7C%20Multi-tenant&descAlignY=58" alt="Cales Junes Rodrigues banner" />
 </p>
 
 <p align="center">
